@@ -47,7 +47,7 @@ body {
   font-weight: bold;
 }
 
-/*header section*/
+
 .hero_area {
   background-image: url(../images/hero-bg.jpg);
   position: relative;
@@ -284,8 +284,6 @@ a:focus {
   width: 100%;
 }
 
-/*end header section*/
-/* slider section */
 .slider_section {
   padding: 75px 0;
   color: #0b0b0b;
