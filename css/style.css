@@ -221,7 +221,7 @@ a:focus {
 }
 
 .menu_btn-style {
-  position: fixed;
+  position: absolute;
   right: 40px;
   top: 7px;
 }
