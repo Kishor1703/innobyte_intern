@@ -982,4 +982,11 @@ a:focus {
   transition:var(30%);
 }
 
+img{
+  border-radius: 30px;
+}
+
+
+
+
 
