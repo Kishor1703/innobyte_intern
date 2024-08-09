@@ -979,23 +979,7 @@ a:focus {
 .info_section .info_links,
 .info_section .info_form,
 .gallery img {
-  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  transition:var(30%);
 }
 
-.hero_area .detail-box h1:hover,
-.hero_area .detail-box p:hover,
-.hero_area .btn-box a:hover,
-.about_section .detail-box:hover,
-.sale_section .detail-box:hover,
-.price_section .detail-box:hover,
-.us_section .box:hover,
-.contact_section .form_container form input:hover,
-.contact_section .form_container form button:hover,
-.info_section .info_contact:hover,
-.info_section .info_info:hover,
-.info_section .info_links:hover,
-.info_section .info_form:hover,
-.gallery img:hover {
-  transform: scale(1.05);
-  opacity: 0.9;
-}
+
